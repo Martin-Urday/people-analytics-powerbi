@@ -41,4 +41,5 @@ Identificar patrones de compromiso, satisfacción laboral y desempeño por depar
 ## 👤 Autor
 **Martín Jesús Villón Urday**
 Egresado de Administración y Sistemas
-[LinkedIn] https://www.linkedin.com/in/martin-villon-urday - [Notion] https://www.notion.so/Portafolio-de-An-lisis-de-Datos-Mart-n-Vill-n-362987249e5280e98159f38d7f3c54d7?source=copy_link
+[LinkedIn] https://www.linkedin.com/in/martin-villon-urday - 
+[Notion] https://www.notion.so/Portafolio-de-An-lisis-de-Datos-Mart-n-Vill-n-362987249e5280e98159f38d7f3c54d7?source=copy_link
