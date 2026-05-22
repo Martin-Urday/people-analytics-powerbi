@@ -3,7 +3,8 @@
 > Dashboard interactivo desarrollado en Power BI para el análisis estratégico de Recursos Humanos en una organización de 3,000 empleados.
 
 ## 🖼️ Vista del Dashboard
-![Dashboard Preview](dashboard-preview.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/556fb638-1fbe-4020-b0ca-7e6a729288e6" />
+
 
 ## 🎯 Objetivo
 Identificar patrones de compromiso, satisfacción laboral y desempeño por departamento para apoyar decisiones estratégicas de RRHH.
@@ -39,4 +40,4 @@ Identificar patrones de compromiso, satisfacción laboral y desempeño por depar
 ## 👤 Autor
 **Martín Jesús Villón Urday**
 Egresado de Administración y Sistemas
-[LinkedIn] https://www.linkedin.com/in/martin-villon-urday
+[LinkedIn] https://www.linkedin.com/in/martin-villon-urday [Notion] https://www.notion.so/Portafolio-de-An-lisis-de-Datos-Mart-n-Vill-n-362987249e5280e98159f38d7f3c54d7?source=copy_link
