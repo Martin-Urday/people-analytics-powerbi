@@ -3,7 +3,8 @@
 > Dashboard interactivo desarrollado en Power BI para el análisis estratégico de Recursos Humanos en una organización de 3,000 empleados.
 
 ## 🖼️ Vista del Dashboard
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/556fb638-1fbe-4020-b0ca-7e6a729288e6" />
+<img width="1873" height="947" alt="image" src="https://github.com/user-attachments/assets/8458821a-4b51-4e24-ae4f-349a763abefd" />
+
 
 
 ## 🎯 Objetivo
